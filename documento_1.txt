@@ -6,7 +6,7 @@ linea 3
 
 linea 4
 
-linea 5
+linea 5 --> cambio de correccion de la linea 5 desde rama fix-type --> correción sugerida por cuvalumnos
 
 linea 6 --> desde github
 
