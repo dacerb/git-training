@@ -2,9 +2,9 @@ linea 0 Mejoras desde pc2 usuario cuvalumno branch develop_tres
 
 linea 1 
 
-linea 2
+linea 2 --> Arreglo linea 2 desde usuario cuvalumnos ya no collaborators sino fork
 
-linea 3
+linea 3 --> Arreglo linea 3 desde usuario cuvalumnos ya no collaborators sino fork
 
 linea 4 agrego desde develop_dos con usuario David Acerbo
 
