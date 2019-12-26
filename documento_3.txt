@@ -12,4 +12,6 @@ Nuevo commit despues del merge en master -> modificado desde develop
 
 linea 5 desde propietario master mas actual que el antiguo fork
 
+master 2 
+
 linea 6 prueba rebase desde repo fork usuari cuvalumnos
