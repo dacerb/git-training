@@ -13,3 +13,5 @@ linea 6 --> desde github
 linea 7 --> cambio en local, ahora con el clone ssh desde windows
 
 linea 8 --> cambio realizado con el usuario cuv.alumno desde otra pc
+
+linea 9 --> el repo ya esta configurado en un apache 
