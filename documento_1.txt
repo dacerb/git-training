@@ -15,3 +15,7 @@ linea 7 --> cambio en local, ahora con el clone ssh desde windows
 linea 8 --> cambio realizado con el usuario cuv.alumno desde otra pc
 
 linea 9 --> el repo ya esta configurado en un apache 
+
+Linea 10 --> cambio 1 amend usuario dacerb
+
+Linea 11 ..--> me falto incluir en el mismo commit del amend usuario dacerb
